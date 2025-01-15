@@ -15,7 +15,7 @@ int main() {
 
     if (escolha == "diamante") {
         cout << "parabens acertaste a picareta" << endl;
-    } if else (escolha == "madeira"  escolha == "pedra"  escolha == "ferro") {
+    } else if (escolha == "madeira"  escolha == "pedra"  escolha == "ferro") {
         cout << "temos pena mas não consegues partir um bloco de obsidian com uma picareta dessas" << endl;
     }
 
